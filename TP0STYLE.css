@@ -1,0 +1,8 @@
+.margin
+{
+    margin : 0px 300px 300px 300px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
